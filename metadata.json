@@ -1,0 +1,6 @@
+{
+  "name": "PulseCare Health System",
+  "description": "Enterprise healthcare management and clinical EHR platform inspired by digital health services, featuring patient and clinician portals, role-based security, and production-ready AWS cloud observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
